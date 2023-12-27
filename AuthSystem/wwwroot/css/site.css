@@ -1,0 +1,60 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  font-family: Roboto, sans-serif;
+}
+
+/*tab nav*/
+
+.card-header{
+    padding: 0rem 0.5rem 0rem 0.5rem;
+}
+
+ .login-logout-card {
+    width: 100%;
+}
+    .login-logout-card a.nav-link {
+        font-size: 20px;
+        font-weight: 600;
+        color: black;
+        text-align: center;
+    }
+
+
+.nav-item{
+    width: 50%;
+    height:100%;
+}
+.nav-tabs .nav-link{
+    margin-bottom: 8px;
+    border-bottom: none;
+
+}
+.mainlogin{
+    width: 100%;
+}
+.form-floating {
+    width: 100%;
+}
+
+.col-10{
+    width: 100%;
+}

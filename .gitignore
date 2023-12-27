@@ -1,0 +1,19 @@
+# ASP.NET specific
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.bak
+*.cache
+*.log
+*.vscode
+bin/
+obj/
+packages/
+node_modules/
+*.vs
+AuthSystem.sln
+*.editorconfig
+appsettings
+appsettings.Development
