@@ -9,7 +9,7 @@ User Authentication
 
 Follow these steps to get your project up and running locally:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-mvc-project.git`
+1. Clone the repository: `git clone https://github.com/Deepangshi/auth-MVC.git`
 2. Open the project in Visual Studio.
 3. Build the solution.
 4. Run the project.
@@ -19,6 +19,7 @@ Follow these steps to get your project up and running locally:
 - ASP.NET MVC
 - C#
 - Entity Framework
+- MSSQL
 - Identity UI
 
 ## Folder Structure
